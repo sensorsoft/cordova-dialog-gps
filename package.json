@@ -1,0 +1,22 @@
+{
+  "name": "cordova-dialog-gps",
+  "version": "0.0.3",
+  "description": "cordova-dialog-gps",
+  "cordova": {
+    "id": "cordova-dialog-gps",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sensorsoft/cordova-dialog-gps.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": ["its","aof","sensorsoft"],
+  "license": "ISC"
+}
